@@ -12,9 +12,9 @@
   --logo-font-family: "Raleway", sans-serif;
 }
 body {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   color: #434455;
-  background-color: var(--WHITE);
+  background-color: #FFFFFFFF;
 }
 .logo {
   font-family: "Raleway", sans-serif;
