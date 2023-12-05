@@ -11,10 +11,10 @@
   --text-font-family: "Roboto", sans-serif;
   --logo-font-family: "Raleway", sans-serif;
 }
-body {
+body {color: #434455;
   background-color: var(--WHITE);
   font-family: "Roboto", sans-serif;
-  color: #434455;
+  
 }
 .logo {
   font-family: "Raleway", sans-serif;
