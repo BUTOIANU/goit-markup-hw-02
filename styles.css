@@ -1,0 +1,21 @@
+:root {
+  --brand-color: #ffffff;
+  --blue: #4d5ae5;
+  --dark-blue: #2e2f42;
+  --more-blue: #434455;
+  --light-color: #f4f4fd;
+  --logo-color: #f4f4f4fd;
+  button-color: #4d5ae5;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434466;
+  background-color: var(--brand-color);
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+}
+.list {
+  list-style: none;
+}
