@@ -5,7 +5,7 @@
   --more-blue: #434455;
   --light-color: #f4f4fd;
   --logo-color: #f4f4f4fd;
-  button-color: #4d5ae5;
+  --button-color: #4d5ae5;
 }
 body {
   font-family: "Roboto", sans-serif;
