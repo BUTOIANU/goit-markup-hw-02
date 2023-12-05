@@ -1,15 +1,19 @@
 :root {
-  --brand-color: #ffffff;
-  --blue: #4d5ae5;
-  --dark-blue: #2e2f42;
-  --more-blue: #434455;
-  --light-color: #f4f4fd;
+  --WHITE: #ffffff;
+  --IRIS: #4d5ae5;
+  --NAVY-BLUE: #2e2f42;
+  --SLATE: #434455;
+  --CLOUD: #f4f4fd;
+  --OCEAN: #404bbf;
   --logo-color: #f4f4f4fd;
   --button-color: #4d5ae5;
+  --CORNFLOWER: #e7e9fc;
+  --text-font-family: "Roboto", sans-serif;
+  --logo-font-family: "Raleway", sans-serif;
 }
 body {
   font-family: "Roboto", sans-serif;
-  color: #434466;
+  color: #434455;
   background-color: var(--brand-color);
 }
 .logo {
