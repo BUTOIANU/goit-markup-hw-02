@@ -7,13 +7,13 @@
   --button-color: #4d5ae5;
 }
 
-.project {
+body {
   font-family: "Roboto", sans-serif;
   color: var(--more-blue);
   background-color: var(--background);
 }
 
-.logo-link .link {
+.logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -121,7 +121,7 @@
   color: var(--dark-blue);
 }
 
-.add {
+.contact {
   font-style: normal;
 }
 
